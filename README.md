@@ -1,4 +1,4 @@
-# 30 Days of Data Engineering
+# 30 Days of Learning
 
 Welcome to my 30 Days of Learning challenge.
 
